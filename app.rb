@@ -6,4 +6,4 @@ class App < Sinatra::Base
     "Welcome to your app boy!!!! "
   end
 
-end
+end 
